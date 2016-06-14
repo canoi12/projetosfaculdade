@@ -1,0 +1,10 @@
+slime 192 248 16 16
+slime 312 256 16 16
+zombie 512 128 16 16
+zombie 688 72 16 16
+slime 936 64 16 16
+zombie 952 248 16 16
+zombie 672 248 16 16
+slime 768 248 16 16
+slime 712 248 16 16
+slime 256 80 16 16
