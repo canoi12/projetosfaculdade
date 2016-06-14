@@ -1,0 +1,5 @@
+Funcionalidade
+Grau de utilização do processador
+    -IPC ( Instruções por ciclo)
+
+Média de não utilização de estágios por ciclo (Soma de todos os pipelines)
