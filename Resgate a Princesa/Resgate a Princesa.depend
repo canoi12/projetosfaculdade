@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1423979818 source:c:\users\canoi\documents\resgate a princesa\algif\algif.c
+	"algif.h"
+	<allegro5/allegro_primitives.h>
+	<math.h>
+
+1423979818 c:\users\canoi\documents\resgate a princesa\algif\algif.h
+	<allegro5/allegro5.h>
+
+1423979818 source:c:\users\canoi\documents\resgate a princesa\algif\bitmap.c
+	"algif.h"
+
+1423979818 source:c:\users\canoi\documents\resgate a princesa\algif\gif.c
+	"algif.h"
+	<stdlib.h>
+	<string.h>
+
+1423979818 source:c:\users\canoi\documents\resgate a princesa\algif\lzw.c
+	"algif.h"
+
+1448943313 source:c:\users\canoi\documents\resgate a princesa\bloco.cpp
+	"Bloco.h"
+
+1448943956 c:\users\canoi\documents\resgate a princesa\bloco.h
+	<allegro5\allegro.h>
+	<allegro5\allegro_image.h>
+	<allegro5\allegro_font.h>
+	<allegro5\allegro_ttf.h>
+
+1448768770 source:c:\users\canoi\documents\resgate a princesa\boladefogo.cpp
+	"BolaDeFogo.h"
+
+1448943982 c:\users\canoi\documents\resgate a princesa\boladefogo.h
+	"Recursos.h"
+
+1448985602 c:\users\canoi\documents\resgate a princesa\recursos.h
+	<iostream>
+	<allegro5\allegro.h>
+	<allegro5\allegro_native_dialog.h>
+	<allegro5\allegro_image.h>
+	<allegro5\allegro_primitives.h>
+	<allegro5\allegro_font.h>
+	<allegro5\allegro_ttf.h>
+	<allegro5\allegro_acodec.h>
+	<allegro5\allegro_audio.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<sstream>
+	"Player.h"
+	"Bloco.h"
+	"BolaDeFogo.h"
+	"algif/algif.h"
+
+1448923737 c:\users\canoi\documents\resgate a princesa\player.h
+	<allegro5\allegro.h>
+	<allegro5\allegro_image.h>
+	<iostream>
+	"Bloco.h"
+
+1448996579 source:c:\users\canoi\documents\resgate a princesa\gamecontrol.cpp
+	"GameControl.h"
+
+1448995301 c:\users\canoi\documents\resgate a princesa\gamecontrol.h
+	"Recursos.h"
+
+1448984317 source:c:\users\canoi\documents\resgate a princesa\player.cpp
+	"Player.h"
+	"Bloco.h"
+
+1448995750 source:c:\users\canoi\documents\resgate a princesa\recursos.cpp
+	"Recursos.h"
+
+1448994642 source:c:\users\canoi\documents\resgate a princesa\resgate a princesa.cpp
+	"GameControl.h"
+	"Recursos.h"
+

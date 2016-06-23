@@ -1,0 +1,7 @@
+Para o jogo funcionar, você ter a biblioteca Allegro 5 instalada no CodeBlocks, e a pasta do jogo deve conter:
+1.Todas as fases.txt(de 0 a 8), na pasta raiz do projeto;
+2.Todos Headers e Sources também na pasta raíz
+  exceto os arquivos algif.c,algif.h,bitmap.c,gif.c e lzw.c, que devem estar em uma pasta chamada algif;
+3. Deve conter também as seguintes pastas na pasta raiz do jogo -> imagens,fonte,musicas,ranking;
+
+Recomenda-se abrir pelo CodeBlocks, que já vai com o arquivo que contém o projeto, daí é só abrir.

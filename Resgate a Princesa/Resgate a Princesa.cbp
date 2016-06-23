@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Resgate a Princesa" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Resgate a Princesa" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Resgate a Princesa" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Bloco.cpp" />
+		<Unit filename="Bloco.h" />
+		<Unit filename="BolaDeFogo.cpp" />
+		<Unit filename="BolaDeFogo.h" />
+		<Unit filename="GameControl.cpp" />
+		<Unit filename="GameControl.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="Recursos.cpp" />
+		<Unit filename="Recursos.h" />
+		<Unit filename="Resgate a princesa.cpp" />
+		<Unit filename="algif/algif.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="algif/algif.h" />
+		<Unit filename="algif/bitmap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="algif/gif.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="algif/lzw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
